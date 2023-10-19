@@ -1,0 +1,7 @@
+const chores = ['wash dishes', 'do laundry', 'take out trash'];
+
+chores.push('study', 'gym');
+
+console.log(chores);
+
+// the .push() function can be used in an array to add elements
