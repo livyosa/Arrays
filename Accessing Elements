@@ -4,3 +4,5 @@ let listItem = ('Fortune favors the brave.');
   console.log(listItem)
   console.log(famousSayings[2]);
   console.log(famousSayings[3]);
+
+// use console.log() to access individual elements of an array.
